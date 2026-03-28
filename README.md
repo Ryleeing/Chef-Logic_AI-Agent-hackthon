@@ -22,9 +22,3 @@ This agent uses a deterministic workflow rather than an LLM, and can be replaced
     * Exports a JSON manifest for system logging.
     * Exports a clean CSV Finance Report for immediate Aaltoes reimbursement.
 
-##  How to Run Locally
-
-1. Clone the repository:
-   ```bash
-   git clone <your-repo-url>
-   cd <your-repo-directory>
