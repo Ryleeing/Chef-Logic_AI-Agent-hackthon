@@ -1,5 +1,5 @@
 
-# 🍕 Chef-Logic[AI-Agent-hackthon] 
+# 🍕 Chef-Logic [AI-Agent-hackthon] 28-3-2026 
 ##  Aaltoes Food Ordering Agent
 A deterministic, end-to-end procurement agent built for the Aaltoes AI Agent Hackathon. 
 
