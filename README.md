@@ -7,7 +7,7 @@ This agent automates the event catering workflow by syncing with the Luma API, p
 
 ##  Architecture & Tradeoffs
 
-To prioritize **100% financial safety and zero hallucination risk** for food procurement, this agent uses a deterministic workflow rather than an LLM.
+This agent uses a deterministic workflow rather than an LLM, and can be replaced by a Large Language Model (LLM) such as Claude 3.5 Opus once API access is restored
 
 * **Human-in-the-Loop Procurement:** Instead of fragile web scrapers executing unauthorized payments, the agent generates deep-links to S-kaupat search results. The human operator verifies the final cart and executes the payment.
 * **Predictive No-Show Modeling:** Analyzes historical check-in metrics from past Luma events to calculate dynamic drop-off rates. If historical data is missing (e.g., in mock environments), it degrades gracefully to a validated statistical baseline.
