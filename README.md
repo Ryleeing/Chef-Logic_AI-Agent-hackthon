@@ -1,6 +1,6 @@
 
-# 🍕 Chef-Logic[AI-Agent-hackthon] - Aaltoes Food Ordering Agent
-
+# 🍕 Chef-Logic[AI-Agent-hackthon] 
+##  Aaltoes Food Ordering Agent
 A deterministic, end-to-end procurement agent built for the Aaltoes AI Agent Hackathon. 
 
 This agent automates the event catering workflow by syncing with the Luma API, predicting actual attendance, inferring dietary needs, and generating a pre-filled S-kaupat cart alongside finance reimbursement reports.
